@@ -2,9 +2,9 @@
 
 This is my software development blog - written in Markdown, hosted on GitHub, and focused on the small things that matter.
 
-You won't find big, boastful ideas here that promise to change your life after reading. No—this is a place for the small, brilliant basics. Here, you'll find little ways to defeat your everyday development enemies, and I'll help you kill them with death by a thousand cuts.
+You won't find big, boastful ideas here that promise to change your life after reading. No this is a place for the small, brilliant basics. Here, you'll find little ways to defeat your everyday development enemies, and I'll help you kill them with death by a thousand cuts.
 
-We'll focus on concrete details, why they matter, and just as importantly, when they don't. Welcome—and I hope you'll read, think, and join the discussion with passion and vigor.
+We'll focus on concrete details, why they matter, and just as importantly, when they don't. Welcome and I hope you'll read, think, and join the discussion with passion and vigor.
 
 *May the wizard bless your code with clarity, your bugs with swift defeat, and your commits with confidence. Go forth and conquer, one small victory at a time.*
 
