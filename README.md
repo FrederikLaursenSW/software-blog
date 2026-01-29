@@ -1,6 +1,6 @@
 # Software Development Blog
 
-This is my software development blog—written in Markdown, hosted on GitHub, and focused on the small things that matter.
+This is my software development blog - written in Markdown, hosted on GitHub, and focused on the small things that matter.
 
 You won't find big, boastful ideas here that promise to change your life after reading. No—this is a place for the small, brilliant basics. Here, you'll find little ways to defeat your everyday development enemies, and I'll help you kill them with death by a thousand cuts.
 
