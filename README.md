@@ -8,7 +8,7 @@ We'll focus on concrete details, why they matter, and just as importantly, when 
 
 *May the wizard bless your code with clarity, your bugs with swift defeat, and your commits with confidence. Go forth and conquer, one small victory at a time.*
 
-✨ *Blessed by the Terminal Wizard* ✨
+*Blessed by the Terminal Wizard* 
 
 ```
 .:.......:...:................:...::..:.............:.......:.......................................
